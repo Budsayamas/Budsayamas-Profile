@@ -1,9 +1,12 @@
 # Budsayamas-Profile
 # Hi, I'm Meli 👋
 # Budsayamas Sawphet “Meli” 
-Thai nickname: Nampheung (น้ำผึ้ง) 🇹🇭
-You can call me Meli or Nampheung — whichever you prefer.
-Meli is inspired by the Greek word μέλι (méli), meaning “honey.” 🍯 the same meaning as my Thai nickname.
+
+Thai nickname: **Nampheung (น้ำผึ้ง)** 🇹🇭 <br>
+
+You can call me **Meli** or **Nampheung** — whichever you prefer.
+
+*Meli is inspired by the Greek word μέλι (méli), meaning “honey.” 🍯 the same meaning as my Thai nickname.*
 
 ### .NET Developer | Manufacturing IT | Backend & Business Applications
 
